@@ -2,12 +2,8 @@
 Space is a mobile application designed to simplify the reservation and management of workspaces. It addresses the challenge of finding suitable workspaces by providing users with detailed information about the nearest and highly-rated options that meet their specific needs. The app utilizes GPS technology to suggest the closest workspaces based on the user's location, optimizing their time and reducing costs by avoiding overcrowded workspaces.
 
  
-
-- The app addresses the challenge of finding suitable workspaces by providing users with detailed information about the
-nearest and highly-rated options that meet their specific needs.    
--  Utilized GPS technology to suggest the closest workspaces based on user location
--  Optimized users’ time and reduced costs by avoiding overcrowded workspaces.
-
+-Using Technologies : Node.Js, Express.Js, ORM, NoSQL, MVC, Multer, Error Handling, Cloudinary, JWT, JOI validation, Postman,
+MongoDB, Authorization, sending mails, Authentication, Verce
 
 # Installation
 To install and set up the Space app, follow these steps:
